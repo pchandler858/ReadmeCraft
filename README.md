@@ -1,9 +1,9 @@
-# test 2
+# TEST 3
 
-![GNU GPL v3 License](https://img.shields.io/badge/License-GPL%20v3-orange.svg)
+![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
 
 ## Description
-kjsad;fjsadjkf
+No description
 
 ## Table of Contents
 - [Installation](#installation)
@@ -14,19 +14,19 @@ kjsad;fjsadjkf
 - [Questions](#questions)
 
 ## Installation
-npm install
+no instructions
 
 ## Usage
-npm install again
+no usage instructions
 
 ## License
-This project is licensed under the [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0) license. See the [LICENSE](LICENSE.md) file for details.
+This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
 
 ## Contributing
-feel free to contribute!
+no guidelines
 
 ## Tests
-npm test
+no test instructions
 
 ## Questions
 If you have any questions about the repo, open an issue or contact me directly at pchandler858@gmail.com. You can find more of my work at [pchandler858](https://github.com/pchandler858).
