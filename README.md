@@ -12,7 +12,6 @@ This README Generator is a command-line application that generates a professiona
 - [Usage](#usage)
 - [License](#license)
 - [Contributing](#contributing)
-- [Tests](#tests)
 - [Questions](#questions)
 
 ## Packages Needed
@@ -53,11 +52,6 @@ Contributions to this project are welcome. To contribute, follow these steps:
 - Push your changes to your forked repository.
 - Submit a pull request.
 
-## Tests
-
-```
-npm test
-```
 
 ## Questions
 
