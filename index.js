@@ -74,7 +74,7 @@ function init() {
   inquirer.prompt(questions).then((answers) => {
     const markdown = generateMarkdown(answers);
 
-    writeFileAsync("README.md", markdown)
+    writeFileAsync("GENERATED_README.md", markdown)
       .then(() => {
         console.log("Successfully wrote README.md file");
       })
