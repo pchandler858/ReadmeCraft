@@ -1,10 +1,10 @@
-//take license as input and return the corresponding badge image as a string
+// Take license as input and return the corresponding badge image as a string
 function renderLicenseBadge(license) {
   if (license === "MIT") {
     return `![MIT License](https://img.shields.io/badge/License-MIT-green.svg)`;
   }
 
-  if (license === "Apache 2.0") {
+  if (license === "Apache License 2.0") {
     return `![Apache 2.0 License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)`;
   }
 
@@ -19,13 +19,13 @@ function renderLicenseBadge(license) {
   return "";
 }
 
-//take license as input and return the corresponding link to the license
+// Take license as input and return the corresponding link to the license
 function renderLicenseLink(license) {
   if (license === "MIT") {
     return `[MIT](https://opensource.org/licenses/MIT)`;
   }
 
-  if (license === "Apache 2.0") {
+  if (license === "Apache License 2.0") {
     return `[Apache 2.0](https://opensource.org/licenses/Apache-2.0)`;
   }
 
@@ -40,7 +40,7 @@ function renderLicenseLink(license) {
   return "";
 }
 
-//takes a license as input and returns a markdown section with license information
+// takes a license as input and returns a markdown section with license information
 function renderLicenseSection(license) {
   if (license !== "") {
     return `## License
