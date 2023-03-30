@@ -52,7 +52,10 @@ Contributions to this project are welcome. To contribute, follow these steps:
 - Push your changes to your forked repository.
 - Submit a pull request.
 
-
 ## Questions
 
 If you have any questions about the repo, open an issue or contact me directly at pchandler858@gmail.com. You can find more of my work at [pchandler858](https://github.com/pchandler858).
+
+## Snapshot
+
+![](./assets/demo_screenshot.png)
